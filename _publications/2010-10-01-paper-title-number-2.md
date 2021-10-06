@@ -14,4 +14,4 @@ The historical development of capitalism created what Karl Marx called a rift in
 
 ASA citation: Betancourt, Mauricio. 2020. “The Effect of Cuban Agroecology in Mitigating the Metabolic Rift: A Quantitative Approach to Latin American Food Production.” <i>Global Environmental Change</i> 63:102075. doi: 10.1016/j.gloenvcha.2020.102075.
 
-[Access paper here](https://doi.org/10.1016/j.gloenvcha.2020.102075)
+Access paper [here](https://doi.org/10.1016/j.gloenvcha.2020.102075)
