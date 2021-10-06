@@ -17,7 +17,7 @@ We assess whether hydroelectric power development influences agricultural methan
 ### The ecological bases for economic processes: South American guano formation and commodification
 <i>Mauricio Betancourt </i>
 
-This work examines how geophysical and ecological conditions provide the foundation and context for global trade by studying the processes whereby guano is formed off Peru and Northern Chile.
+This paper analyzes how geophysical and ecological conditions provide the foundation and context for global trade by studying the processes whereby guano is formed off Peru and Northern Chile.
 
 ### An Agroecology Project in Zaachila: the synthesis of an experience  
 <i>Mariana Benítez, Cristina Alonso, Cecilia González, Emilio Mora, Emilio Petrone, <b>Mauricio Betancourt</b>, Adriana Uscanga, Alexandre Beaupré, Benito Vázquez, Tania Lara, Luis Bracamontes, Sergio Hernández, Diego Contreras, Ana Laura Urrutia, and Kyria Valladares</i>.
@@ -27,24 +27,16 @@ Using information obtained through semi-structured interviews, in this book chap
 Past
 ======
 
-### Collective decision-making: Deliberation in small groups vs. the Wisdom of the crowds
-<i>Joaquin Navajas, Tamara Niella, Gerry Garbulsky, Bahador Barhami, Mariano Sigman </i>
+### The nature-society relationship under capitalism and socialism
+<i>Mauricio Betancourt</i>
 
-In a crowd experiment on a 10,000 people audience at TEDxRiodelaPlata, we studied whether a crowd made better estimations when people made estimations 
-individually vs. in small independent groups where deliberation and consensus took place. 
+This work examines the perspectives and techno-scientific assumptions _vis-à-vis-_ the environment under different socioeconomic systems, by means of applying social theories.
 
-See publication [here](https://www.nature.com/articles/s41562-017-0273-4)
+See this work [here](https://repositorio.unam.mx/contenidos/438592) (in Spanish).
 
-### Cooperation and the zero-sum game fallacy 
-<i>Tamara Niella, Nicolas Stier, Mariano Sigman</i>
+### The literary, scientific, and sociopolitical origins of environmentalism in the United States and its Development During the Cold War
+<i>Mauricio Betancourt</i>
 
-In a crowd experiment on a 10,000 people audience at TEDxRiodelaPlata, we studied why people do not engage in cooperation, even when it pays off, and how context and instructions can influence that behavior. 
+This thesis traces the diverse origins of environmentalism in the United States, paying attention to both and its artistic and scientific components, as well as its sociopolitical implications in the twentieth century and the present-day world. 
 
-See publication [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147125)
-
-### Moral judgment of tattling in Argentina: the effect of different types of incetives and a person's intrinsic corruption
-<i>Tamara Niella, Isabel Rocca, Mariano Sigman</i> 
-
-Investigation on Argentinean adults’ moral judgment of tattling -the reporting of another person’s violation of a normative expectation to a third party- and the effect of two kinds of incentives on it. It is possible that in the decision making process, two opponent moral values come into play: the benefit of maintaining loyalty to an authority vs. the cost of breaking loyalty to a peer. We examine the hypothesis that there are certain variables that may alter this trade-off. Through an interactive questionnaire we found that loyalty to the authority may be perceived as a cost while maintaining loyalty to a peer seems to be more relevant. In different situations where the following factors varied: the seriousness of the transgression, the relationship between peers, and the existence or not of incentives to tattle; we found a generally negative insight towards tattling, and a resistance to like the “tattler” even when her action is well judged. This negative insight is intensified when there is friendship involved or when the transgression’s seriousness is low. We also found that a punishment-type incentive nudges willingness to tattle more efficiently than a prize-type one. In a second experiment, we identified "corrupt" participants from those who were not, and although there were no differences between their judgment on tattling, differences in their attitudes were found: corrupt participants would tattle less than non corrupt ones.
-
-This was my Bachelor's Honor's Thesis. You can read it [here](https://repositorio.utdt.edu/handle/utdt/2325) (in Spanish).
+This was my Bachelor's Honor's Thesis. You can find it [here](https://repositorio.utdt.edu/handle/utdt/2325) (in Spanish).
