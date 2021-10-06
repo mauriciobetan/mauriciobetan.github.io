@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my full CV [here]
+
 Education
 ======
 * Ph.D. in Sociology, University of Oregon, 2022 (expected)
@@ -23,26 +25,19 @@ Skills
   * English (fluent)
   * French (fluent)
   * Italian (basic)
-* Skill 3
+* Coding
+  * R
+  * ArcMap
+  * LaTex
+  * SPSS
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Wasby-Johnson Dissertation Award. University of Oregon, 2021
+* Research Award for Publication. University of Oregon, 2021
+* Award for the best M.A. paper in the 2018-19 academic year. University of Oregon, 2020
+* Alfonso Caso Medal for the 2016-17 Masters in Philosophy of Science (highest distinction awarded by the UNAM to postgraduate students). UNAM, 2019
+* Honorable mention (Masters) for an outstanding thesis and _viva voce_ exam. UNAM, 2017
+* Diploma of Achievement for academic excellence (second highest average of the 2011 cohort). UNAM, 2016
+* Candidate to the Gabino Barreda Medal (highest distinction awarded by the UNAM to undergraduate students). UNAM, 2016
+* Honorable mention (BSc) for an outstanding thesis and _viva voce_ exam. UNAM, 2014
