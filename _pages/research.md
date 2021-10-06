@@ -9,22 +9,21 @@ author_profile: true
 
 In Progress
 ======
-### Polarizing conversations: Live versus imagined, and their effect on our willingness to communicate
-<i>Tamara Niella, Joaquin Navajas, Sara D. Hodges</i> 
+### Hydropower, agriculture, and methane: the social effects of dams amid a changing climate.
+<i>Amanda Sikirica, <b>Mauricio Betancourt</b>, and Nick Theis </i> 
 
-We study participants (groups and dyads) having conversations on a polarizing topic and participants imagining such interactions. Study 1 found that agreement in live conversations was higher than expected when imagined. Study 2 (ongoing) aims to replicate this in polarized dyads and to test whether live interaction positively affects participants’ willingness to engage in such interactions in the future. 
+We assess whether hydroelectric power development influences agricultural methane emissions. Despite the fact that environmental sociology has enjoyed a wealth of research on greenhouse gas (GHG) emissions, little has examined agricultural emissions, and even less so agricultural methane emissions, the second most important GHG, whose relevance in relation to climate change is increasingly important. In order to establish the effects of hydroelectricity on agricultural methane emissions, we estimate three fixed-effects panel regression models on all nations with available data from 1975-2008, which we then split by high and non-high income categories to investigate variation in effect by affluence. We intend to send this piece to _Energy Research & Social Science_.
 
-### Sleep and Polarization 
-<i>Joaquin Navajas, Diego Golombek, Horacio de la Iglesia, Leandro Casiraghi, Tamara Niella, Victoria Lescano Charreau</i>
+### The ecological bases for economic processes: South American guano formation and commodification. 
+<i>Mauricio Betancourt </i>
 
-Research project to investigate the effects of partial sleep deprivation on political polarization and conversation receptiveness in the United States and Argentina. 
+This work examines how geophysical and ecological conditions provide the foundation and context for global trade by studying the processes whereby guano is formed off Peru and Northern Chile.
 
-###  Understanding how corruption and dishonesty affect the perception of reporting transgressions
-<i>Tamara Niella</i>
+### An Agroecology Project in Zaachila: synthesizing an experience  
+<i>Mariana Benítez, Cristina Alonso, Cecilia González, Emilio Mora, Emilio Petrone, <b>Mauricio Betancourt</b>, </i>, Adriana Uscanga, Alexandre Beaupré, Benito Vázquez, Tania Lara, Luis Bracamontes, Sergio Hernández, Diego Contreras, Ana Laura Urrutia, and Kyria Valladares.
 
-Reporting a transgression of the norm to an authority figure can imply an act of disloyalty against one’s group, which constitutes a moral dilemma between maintaining loyalty to one’s peers vs. loyalty to other moral concerns. My goal is to study factors that explain the link between a negative perception of reporting transgressions and the prevalence of corruption within a society by conducting surveys on countries with different corruption-perception indexes. 
+Using information obtained through semi-structured interviews, in this book chapter, we synthesize the experiences of peasants in Zaachila, Oaxaca, regarding their adoption of agroecological techniques and their involvement in a local agroecological project we were part of. 
 
-  
 Past
 ======
 
