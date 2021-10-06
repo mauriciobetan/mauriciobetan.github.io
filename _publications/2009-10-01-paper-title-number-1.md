@@ -6,7 +6,7 @@ excerpt:
 date: 2021-10-15
 venue: 'Journal of Peasant Studies'
 paperurl: 'https://doi.org/10.1080/03066150.2021.1979966'
-citation: 'Loustaunau, Lola, <b>Mauricio Betancourt</b>, Brett Clark, and John Bellamy Foster. 2021. &quot;Worse than Slavery?: Racialized Contract Labor, the Corporeal Rift, and Ecological Imperialism in Peru’s Nineteenth-Century Guano Boom. &quot; <i>Journal of Peasant Studies</i>. doi: 10.1080/03066150.2021.1979966'
+citation: 'Loustaunau, Lola, Mauricio Betancourt, Brett Clark, and John Bellamy Foster. 2021. &quot;Worse than Slavery?: Racialized Contract Labor, the Corporeal Rift, and Ecological Imperialism in Peru’s Nineteenth-Century Guano Boom. &quot; <i>Journal of Peasant Studies</i>. doi: 10.1080/03066150.2021.1979966'
 ---
 
 <b>Abstract</b>
