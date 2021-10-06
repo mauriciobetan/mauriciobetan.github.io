@@ -22,7 +22,7 @@ This work examines how geophysical and ecological conditions provide the foundat
 ### An Agroecology Project in Zaachila: the synthesis of an experience  
 <i>Mariana Benítez, Cristina Alonso, Cecilia González, Emilio Mora, Emilio Petrone, <b>Mauricio Betancourt</b>, Adriana Uscanga, Alexandre Beaupré, Benito Vázquez, Tania Lara, Luis Bracamontes, Sergio Hernández, Diego Contreras, Ana Laura Urrutia, and Kyria Valladares</i>.
 
-Using information obtained through semi-structured interviews, in this book chapter, we synthesize the experiences of peasants in Zaachila, Oaxaca, regarding their adoption of agroecological techniques and their involvement in a local agroecological project we were part of. 
+Using information obtained through semi-structured interviews, in this book chapter we synthesize the experiences of peasants in Zaachila, Oaxaca, regarding their adoption of agroecological techniques and their involvement in a local agroecological project we were part of. 
 
 Past
 ======
