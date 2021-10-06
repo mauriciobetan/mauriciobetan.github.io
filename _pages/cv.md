@@ -11,29 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Ph.D. in Sociology, University of Oregon, 2022 (expected)
+* M.A. in Sociology, University of Oregon, 2019
+* M.A. in Philosophy of Science, National Autonomous University of Mexico, 2017
+* B.Sc. in Biology, National Autonomous University of Mexico, 2014
+*   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Languages
+  * Spanish (native)
+  * English (fluent)
+  * French (fluent)
+  * Italian (basic)
 * Skill 3
 
 Publications
