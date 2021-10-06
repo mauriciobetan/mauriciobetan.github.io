@@ -2,7 +2,7 @@
 title: ""Worse than Slavery"?: Racialized Contract Labor, the Corporeal Rift, and Ecological Imperialism in Peru’s Nineteenth-Century Guano Boom"
 collection: publications
 permalink: /10.1080/03066150.2021.1979966
-excerpt: 
+excerpt: ajsdka
 date: 2021-10-25
 venue: 'Journal of Peasant Studies'
 paperurl: 'https://doi.org/10.1080/03066150.2021.1979966 
