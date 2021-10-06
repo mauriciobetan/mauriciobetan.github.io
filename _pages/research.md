@@ -9,12 +9,12 @@ author_profile: true
 
 In Progress
 ======
-### Hydropower, agriculture, and methane: the social effects of dams amid a changing climate.
+### Hydropower, agriculture, and methane: the social effects of dams amid a changing climate
 <i>Amanda Sikirica, <b>Mauricio Betancourt</b>, and Nick Theis </i> 
 
 We assess whether hydroelectric power development influences agricultural methane emissions. Despite the fact that environmental sociology has enjoyed a wealth of research on greenhouse gas (GHG) emissions, little has examined agricultural emissions, and even less so agricultural methane emissions, the second most important GHG, whose relevance in relation to climate change is increasingly important. In order to establish the effects of hydroelectricity on agricultural methane emissions, we estimate three fixed-effects panel regression models on all nations with available data from 1975-2008, which we then split by high and non-high income categories to investigate variation in effect by affluence. We intend to send this piece to _Energy Research & Social Science_.
 
-### The ecological bases for economic processes: South American guano formation and commodification. 
+### The ecological bases for economic processes: South American guano formation and commodification
 <i>Mauricio Betancourt </i>
 
 This work examines how geophysical and ecological conditions provide the foundation and context for global trade by studying the processes whereby guano is formed off Peru and Northern Chile.
