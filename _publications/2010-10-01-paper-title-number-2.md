@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "The Effect of Cuban Agroecology in Mitigating the Metabolic Rift: A Quantitative Approach to Latin American Food Production"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /10.1016/j.gloenvcha.2020.102075
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2020-07-01
+venue: 'Global Environmental Change'
+paperurl: 'https://doi.org/10.1016/j.gloenvcha.2020.102075'
+citation: 'Betancourt, Mauricio. 2020. &quot;The Effect of Cuban Agroecology in Mitigating the Metabolic Rift: A Quantitative Approach to Latin American Food Production. &quot; <i>Global Environmental Change</i>. 63:102075. doi: 10.1016/j.gloenvcha.2020.102075'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Access paper here](https://doi.org/10.1016/j.gloenvcha.2020.102075)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Betancourt, Mauricio. 2020. “The Effect of Cuban Agroecology in Mitigating the Metabolic Rift: A Quantitative Approach to Latin American Food Production.” <i>Global Environmental Change</i> 63:102075. doi: 10.1016/j.gloenvcha.2020.102075.
