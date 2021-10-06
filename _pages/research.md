@@ -39,4 +39,4 @@ See this work [here](https://repositorio.unam.mx/contenidos/438592) (in Spanish)
 
 This thesis traces the diverse origins of environmentalism in the United States, paying attention to both and its artistic and scientific components, as well as its sociopolitical implications in the twentieth century and the present-day world. 
 
-This was my Bachelor's Honor's Thesis. You can find it [here](http://mauriciobetan.github.io/files/TESIS_REVISADA.pdf) (in Spanish).
+This was my Bachelor's Honor's Thesis. You can read it [here](http://mauriciobetan.github.io/files/TESIS_REVISADA.pdf) (in Spanish).
