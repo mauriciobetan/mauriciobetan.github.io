@@ -36,8 +36,8 @@ Awards
 * Wasby-Johnson Dissertation Award. University of Oregon, 2021
 * Research Award for Publication. University of Oregon, 2021
 * Award for the best M.A. paper in the 2018-19 academic year. University of Oregon, 2020
-* Alfonso Caso Medal for the 2016-17 Masters in Philosophy of Science (highest distinction awarded by the UNAM to postgraduate students). UNAM, 2019
+* Alfonso Caso Medal for the 2016-17 Masters in Philosophy of Science Cohort. UNAM, 2019
 * Honorable mention (Masters) for an outstanding thesis and _viva voce_ exam. UNAM, 2017
-* Diploma of Achievement for academic excellence (second highest average of the 2011 cohort). UNAM, 2016
-* Candidate to the Gabino Barreda Medal (highest distinction awarded by the UNAM to undergraduate students). UNAM, 2016
+* Diploma of Achievement for academic excellence. UNAM, 2016
+* Candidate to the Gabino Barreda Medal. UNAM, 2016
 * Honorable mention (BSc) for an outstanding thesis and _viva voce_ exam. UNAM, 2014
