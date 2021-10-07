@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /fhb
 venue: "National Autonomous University of Mexico, School of Sciences"
-date: 2015-08-12
+date: 2015-08-12-2017-08-12
 location: "Mexico City, Mexico"
 ---
 
