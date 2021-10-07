@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Other publications"
+permalink: /otherpublications/
+author_profile: true
+---
+
+{% include base_path %}
+
 ======
 ### Betancourt, Mauricio. 2021. "[El papel de la ciencia en la URSS: un esbozo de la ecología y las ciencias ambientales soviéticas](https://tejiendorevolucion.org/pp14bet.html)." _Palabras Pendientes_ 14:70-77.
 
