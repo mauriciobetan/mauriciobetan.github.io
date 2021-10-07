@@ -6,6 +6,9 @@ main:
   - title: "Peer-reviewed publications"
     url: /publications/
     
+  - title: "Other publications"
+    url: /otherpublications/
+    
   - title: "Research"
     url: /research/
 
