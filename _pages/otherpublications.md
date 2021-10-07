@@ -1,7 +1,7 @@
 ======
-### Betancourt, Mauricio. 2021. "[El papel de la ciencia en la URSS: un esbozo de la ecología y las ciencias ambientales soviéticas](https://tejiendorevolucion.org/pp14bet.html)." _Palabras Pendientes_ 14:70-77. (in Spanish).
+### Betancourt, Mauricio. 2021. "[El papel de la ciencia en la URSS: un esbozo de la ecología y las ciencias ambientales soviéticas](https://tejiendorevolucion.org/pp14bet.html)." _Palabras Pendientes_ 14:70-77.
 
-I provide an overview of some scientific and environmental developments in the Soviet Union, such as the concept of biogeocoenose, the biosphere, and some forest conservation policies.
+I provide an overview of some scientific and environmental developments in the Soviet Union, such as the concept of biogeocoenose, the biosphere, and some forest conservation policies (in Spanish).
 
 ### The ecological bases for economic processes: South American guano formation and commodification
 <i>Mauricio Betancourt </i>
