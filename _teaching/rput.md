@@ -4,7 +4,7 @@ collection: teaching
 type: "High School Course"
 permalink: /rput
 venue: "INHUMYC"
-date: 2015-08-12-2017-08-12
+date: 2015-07-12-2017-08-12
 location: "Mexico City, Mexico"
 ---
 
