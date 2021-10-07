@@ -1,5 +1,5 @@
 ---
-title: "El papel de la ciencia en la URSS: un esbozo de la ecología y las ciencias ambientales soviéticas"
+"El papel de la ciencia en la URSS: un esbozo de la ecología y las ciencias ambientales soviéticas"
 collection: otherpublications
 permalink: /otherpublications
 excerpt: 
