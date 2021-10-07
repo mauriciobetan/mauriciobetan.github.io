@@ -3,11 +3,6 @@ layout: archive
 title: "Other Publications"
 permalink: /otherpublications/
 author_profile: true
----
-
-{% include base_path %}
-
----
 title: "El papel de la ciencia en la URSS: un esbozo de la ecología y las ciencias ambientales soviéticas"
 collection: otherpublications
 permalink: /otherpublications
@@ -17,6 +12,8 @@ venue: 'Palabras Pendientes'
 paperurl: 'https://doi.org/10.1080/03066150.2021.1979966' 
 citation: 'Betancourt, Mauricio. 2021. &quot;El papel de la ciencia en la URSS: un esbozo de la ecología y las ciencias ambientales soviéticas.&quot; <i>Palabras Pendientes</i>.'
 ---
+
+{% include base_path %}
 
 <b>Abstract</b> prueba..
 
