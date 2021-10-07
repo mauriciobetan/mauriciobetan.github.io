@@ -1,22 +1,16 @@
----
-"El papel de la ciencia en la URSS: un esbozo de la ecología y las ciencias ambientales soviéticas"
-collection: otherpublications
-permalink: /otherpublications
-excerpt: 
-date: 2021-2-20
-venue: 'Palabras Pendientes'
-paperurl: 'https://doi.org/10.1080/03066150.2021.1979966' 
-citation: 'Betancourt, Mauricio. 2021. &quot;El papel de la ciencia en la URSS: un esbozo de la ecología y las ciencias ambientales soviéticas.&quot; <i>Palabras Pendientes</i>.'
----
----
-layout: archive
-title: "Other Publications"
-permalink: /otherpublications/
-author_profile: true
----
+======
+### Betancourt, Mauricio. 2021. "[El papel de la ciencia en la URSS: un esbozo de la ecología y las ciencias ambientales soviéticas](https://tejiendorevolucion.org/pp14bet.html)." _Palabras Pendientes_ 14:70-77. (in Spanish).
 
-{% include base_path %}
+I provide an overview of some scientific and environmental developments in the Soviet Union, such as the concept of biogeocoenose, the biosphere, and some forest conservation policies.
 
-<b>Abstract</b> prueba..
+### The ecological bases for economic processes: South American guano formation and commodification
+<i>Mauricio Betancourt </i>
 
-<b>ASA citation</b>: Loustaunau, Lola, Mauricio Betancourt, Brett Clark, and John Bellamy Foster. 2021. &quot;"Worse than Slavery?": Racialized Contract Labor, the Corporeal Rift, and Ecological Imperialism in Peru’s Nineteenth-Century Guano Boom. &quot; <i>Journal of Peasant Studies</i>. doi: 10.1080/03066150.2021.1979966.
+This paper analyzes how geophysical and ecological conditions provide the foundation and context for global trade by studying the processes whereby guano is formed off Peru and Northern Chile.
+
+### An Agroecology Project in Zaachila: the synthesis of an experience  
+<i>Mariana Benítez, Cristina Alonso, Cecilia González, Emilio Mora, Emilio Petrone, <b>Mauricio Betancourt</b>, Adriana Uscanga, Alexandre Beaupré, Benito Vázquez, Tania Lara, Luis Bracamontes, Sergio Hernández, Diego Contreras, Ana Laura Urrutia, and Kyria Valladares</i>.
+
+Using information obtained through semi-structured interviews, in this book chapter we synthesize the experiences of peasants in Zaachila, Oaxaca, regarding their adoption of agroecological techniques and their involvement in a local agroecological project we were part of. 
+
+
