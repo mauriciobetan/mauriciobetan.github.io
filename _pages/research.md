@@ -37,6 +37,6 @@ This was my M.A. thesis in Philosophy of Science at UNAM. Read this work [here](
 ### The literary, scientific, and sociopolitical origins of environmentalism in the United States and its Development During the Cold War
 <i>Mauricio Betancourt</i>
 
-This thesis traces the diverse origins of environmentalism in the United States, paying attention to both and its artistic and scientific components, as well as its sociopolitical implications in the twentieth century and the present-day world. 
+This thesis traces the diverse origins of environmentalism in the United States, paying attention to both its artistic and scientific components, as well as its sociopolitical implications in the twentieth century and the present-day world. 
 
 This was my Bachelor's Honor's Thesis. You can read it [here](http://mauriciobetan.github.io/files/TESIS_REVISADA.pdf) (in Spanish).
