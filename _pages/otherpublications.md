@@ -3,6 +3,7 @@ layout: archive
 title: "Other Publications"
 permalink: /otherpublications/
 author_profile: true
+---
 title: "El papel de la ciencia en la URSS: un esbozo de la ecología y las ciencias ambientales soviéticas"
 collection: otherpublications
 permalink: /otherpublications
