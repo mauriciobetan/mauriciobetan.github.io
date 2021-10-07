@@ -1,7 +1,7 @@
 ---
 title: "History and Philosophy of Biology"
 collection: teaching
-type: "Undergraduate class"
+type: "Undergraduate Course"
 permalink: /fhb
 venue: "National Autonomous University of Mexico, School of Sciences"
 date: 2015-08-12
