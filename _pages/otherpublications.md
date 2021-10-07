@@ -15,9 +15,6 @@ I provide an overview of some scientific and environmental developments in the S
 
 This article examines two intertwined crises: the food crisis and the loss of biodiversity crisis. Commonly, each of these problems is addressed in an isolated --an even antagonistic-- way, when in fact both are deeply interconnected. We analyze the relationship between agriculture and biodiversity conservation in Mexico, focusing on the effects of different modes of agricultural production upon the dynamics of fragmented biotic communities in the landscape. You can this article [here](https://ia801605.us.archive.org/23/items/biodiversitasno13comic/biodiversitasno13comic.pdf). (in Spanish).
 
-### An Agroecology Project in Zaachila: the synthesis of an experience  
-<i>Mariana Benítez, Cristina Alonso, Cecilia González, Emilio Mora, Emilio Petrone, <b>Mauricio Betancourt</b>, Adriana Uscanga, Alexandre Beaupré, Benito Vázquez, Tania Lara, Luis Bracamontes, Sergio Hernández, Diego Contreras, Ana Laura Urrutia, and Kyria Valladares</i>.
+### Betancourt, Mauricio. 2016. "En torno al entorno: Pensamiento ambiental y literatura." pp. 43-59 in _Naturaleza, ciencia y sociedad: Cuarenta años de pensamiento crítico-interdisciplinario en la Facultad de Ciencias de la UNAM_. 1<sup>st</sup> ed., edited by F. Guerrero Mc Manus, E. Vizcaya Xilotl, and O. Valadez Blanco. Universidad Nacional Autónoma de México: Facultad de Ciencias and CopIt-arXives.
 
-Using information obtained through semi-structured interviews, in this book chapter we synthesize the experiences of peasants in Zaachila, Oaxaca, regarding their adoption of agroecological techniques and their involvement in a local agroecological project we were part of. 
-
-
+This book chapter, part of a work commemorating the fortieth anniversary of the Course _Nature and Society_ in the School of Sciences at UNAM, explores the relationship between Romantic and indigenous literature, materialism, and environmentalism. You can read it [here](http://scifunam.fisica.unam.mx/mir/copit/SC0006ES/SC0006ES.pdf). 
