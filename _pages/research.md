@@ -32,7 +32,7 @@ Past
 
 This work examines the perspectives and techno-scientific assumptions _vis-à-vis-_ the environment under different socioeconomic systems, by means of applying social theories.
 
-See this work [here](https://repositorio.unam.mx/contenidos/438592) (in Spanish).
+This was my M.A. thesis in Philosophy of Science at UNAM. Read this work [here](https://repositorio.unam.mx/contenidos/438592) (in Spanish).
 
 ### The literary, scientific, and sociopolitical origins of environmentalism in the United States and its Development During the Cold War
 <i>Mauricio Betancourt</i>
