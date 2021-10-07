@@ -12,4 +12,4 @@ Taught in 2015 and 2016, this course introduces students to five selected topics
 
 You can find the syllabus of the class [here](http://mauriciobetan.github.io/files/rputsyllabus.pdf) (in Spanish).
 
-<b>In addition, I have been Teaching Assistant for SOC 204 _Introduction to Sociology_ (Spring 2021, Winter 2020, Fall 2020, Fall 2018, Spring 2018, Winter 2018), SOC 304 _Community, Environment, and Society_ (Fall 2021, Winter 2019), SOC 310 _Social Theory_ (Winter 2021), SOC 317 _Sociology of Mass Media_ (Spring 2019), and SOC 410 _Homelessness in the U.S._(Fall 2017) at the University of Oregon</b>.
+In addition, I have been Teaching Assistant for SOC 204 <b>_Introduction to Sociology_</b> (Spring 2021, Winter 2020, Fall 2020, Fall 2018, Spring 2018, Winter 2018), SOC 304 <b>_Community, Environment, and Society_</b> (Fall 2021, Winter 2019), SOC 310 <b>_Social Theory_</b> (Winter 2021), SOC 317 <b>_Sociology of Mass Media_</b> (Spring 2019), and SOC 410 <b>_Homelessness in the U.S._</b> (Fall 2017) at the University of Oregon.
