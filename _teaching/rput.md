@@ -10,4 +10,4 @@ location: "Mexico City, Mexico"
 
 This course introduces students to five selected topics: academic writing, biological evolution, the origin and diversity of plants and animals, biochemistry and biotechnology, and conservation biology. 
 
-You can find the syllabus of the class [here](http://mauriciobetan.github.io/files/rputsyllabus.pdf)(in Spanish).
+You can find the syllabus of the class [here](http://mauriciobetan.github.io/files/rputsyllabus.pdf) (in Spanish).
