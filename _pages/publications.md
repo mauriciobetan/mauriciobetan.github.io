@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic publications"
+title: "Peer-reviewed publications"
 permalink: /publications/
 author_profile: true
 ---
