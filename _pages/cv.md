@@ -13,7 +13,7 @@ You can find my full CV [here](http://mauriciobetan.github.io/files/MV_CV_dec202
 
 Education
 ======
-* Ph.D. in Sociology, University of Oregon, 2022 (expected)
+* Ph.D. in Sociology, University of Oregon, 2022
 * M.A. in Sociology, University of Oregon, 2019
 * M.A. in Philosophy of Science, National Autonomous University of Mexico, 2017
 * B.Sc. in Biology, National Autonomous University of Mexico, 2014
