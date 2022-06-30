@@ -10,7 +10,7 @@ author_profile: true
 In Progress
 ======
 ### Conflicting outcomes of alternative energies: Agricultural methane emissions and hydroelectricity, 1975-2008
-<i>Amanda Sikirica, Nick Theis </i>, and <b>Mauricio Betancourt</b>
+<i>Amanda Sikirica, Nick Theis, </i> and <b>Mauricio Betancourt</b>
 
 We assess whether hydroelectric power development influences agricultural methane emissions. Despite the fact that environmental sociology has enjoyed a wealth of research on greenhouse gas (GHG) emissions, little has examined agricultural emissions, and even less so agricultural methane emissions, the second most important GHG, whose relevance in relation to climate change is increasingly important. In order to establish the effects of hydroelectricity on agricultural methane emissions, we estimate three fixed-effects panel regression models on all nations with available data from 1975-2008, which we then split by high and non-high income categories to investigate variation in effect by affluence. Submitted to _Environmental Research: Climate_.
 
