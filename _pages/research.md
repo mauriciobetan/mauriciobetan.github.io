@@ -17,7 +17,7 @@ We assess whether hydroelectric power development influences agricultural methan
 ### The ecological bases for economic processes: South American guano formation and commodification
 <i>Mauricio Betancourt </i>
 
-This paper analyzes how geophysical and ecological conditions provide the foundation and context for global trade by studying the processes whereby guano is formed off Peru and Northern Chile.
+This paper analyzes how geophysical and ecological conditions provide the foundation and context for global trade by studying the processes whereby guano is formed off Peru and Northern Chile. To be submitted to _Human Ecology_.
 
 ### An Agroecology Project in Zaachila: the synthesis of an experience  
 <i>Mariana Benítez, Cristina Alonso, Cecilia González, Emilio Mora, Emilio Petrone, <b>Mauricio Betancourt</b>, Adriana Uscanga, Alexandre Beaupré, Benito Vázquez, Tania Lara, Luis Bracamontes, Sergio Hernández, Diego Contreras, Ana Laura Urrutia, and Kyria Valladares</i>.
