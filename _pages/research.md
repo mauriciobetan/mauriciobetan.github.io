@@ -10,7 +10,7 @@ author_profile: true
 In Progress (see [CV](http://mauriciobetan.github.io/files/MB_CV_sept2022.pdf) for a whole list of manuscripts in preparation)
 ======
 ### The guano diggers: A racialized system of bonded labor
-<i>Mauricio Betancourt </i>
+<i>Mauricio Betancourt</i>
 
 Using archival data from Peru and drawing on corporeal rift theory, this piece examines the little-known living conditions of the Chinese guano workers in the Chincha Islands during the mid-1850s. I show how the guano trade created entwined ecological degradation an human exploitation. To be submitted to the _American Journal of Sociology_.
 
