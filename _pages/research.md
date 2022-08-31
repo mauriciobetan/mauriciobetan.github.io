@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-In Progress (see CV for a whole list of manuscripts in preparation)
+In Progress (see [CV](http://mauriciobetan.github.io/files/MB_CV_sept2022.pdf) for a whole list of manuscripts in preparation)
 ======
 ### The guano diggers: A racialized system of bonded labor
 <i>Mauricio Betancourt </i>
