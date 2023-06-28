@@ -1,5 +1,5 @@
 ---
-title: "Environmental Sociology: Nature, Society, and the Anthropocene (284)"
+title: "Environmental Sociology: Nature, Society, and the Anthropocene (SOCI 284)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /2ob
