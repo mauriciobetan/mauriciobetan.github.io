@@ -1,5 +1,5 @@
 ---
-title: "Sociology of the Global South (364)"
+title: "Sociology of the Global South (SOC 364)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /0Ob
