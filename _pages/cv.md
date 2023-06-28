@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](http://mauriciobetan.github.io/files/MB_CV_sept2022.pdf)
+You can find my full CV [here](http://mauriciobetan.github.io/files/MB_CV_aug2023.pdf)
+
+Employment
+======
+* Washington and Lee University, July 2023-present
+* Oberlin College, 2022-2023
+* National Autonomous University of Mexico 2015-2016
 
 Education
 ======
@@ -25,7 +31,7 @@ Skills
   * English (fluent)
   * French (fluent)
   * Italian (basic)
-* Coding
+* Software
   * R
   * ArcMap
   * LaTex
