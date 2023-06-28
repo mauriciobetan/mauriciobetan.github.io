@@ -13,9 +13,9 @@ You can find my full CV [here](http://mauriciobetan.github.io/files/MB_CV_aug202
 
 Employment
 ======
-* Washington and Lee University, July 2023-present
+* Washington and Lee University, July 2023--present
 * Oberlin College, 2022-2023
-* National Autonomous University of Mexico 2015-2016
+* National Autonomous University of Mexico, 2015-2016
 
 Education
 ======
