@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Sociology: Social Behavior and Structural Inequality (165)"
+title: "Introduction to Sociology: Social Behavior and Structural Inequality (SOCI 165)"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /1ob
