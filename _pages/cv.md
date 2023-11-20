@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](http://mauriciobetan.github.io/files/MB_CV_aug2023.pdf)
+You can find my full CV [here](http://mauriciobetan.github.io/files/MB_CV_nov23.pdf)
 
 Employment
 ======
